@@ -1,0 +1,35 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache (if applicable)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node dependencies (if applicable)
+node_modules/
+
+# Build output (only if generated)
+# dist/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
