@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Analyst & BI Developer Portfolio
 
 A responsive, static portfolio website inspired by the content architecture of the reference portfolio at <https://beingbrute.github.io/>. This implementation uses original markup, styling, and project descriptions; it does not copy the reference site's source code or branding.
@@ -55,3 +56,7 @@ The site includes semantic sections, keyboard-friendly links and buttons, a skip
 ### Hero profile section
 
 The hero now includes an availability label, name, role, location, positioning statement, rotating specialization label, a profile card, and two professional highlights. The profile image is intentionally left as an initials placeholder until you add your own photo; no other person's photograph is included.
+=======
+# Diaz_Jubairy_Page.github.io
+Diaz Jubairy Landing Page
+>>>>>>> f52a824a77e978e647941615c2d1676c8e11163c
