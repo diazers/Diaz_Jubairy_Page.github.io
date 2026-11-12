@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Analyst & BI Developer Portfolio
 
 i have quite unique background, my major was from physics education, i have worked as teacher, admin, and sales team. Curiosity brought me to the world of data and i'm going to stay in this field cause of how fun and challenging this field was. you might think this is disadvantage but i use this range of field as my companion skills while traversing and exploring the world of data science.
